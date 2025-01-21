@@ -7,4 +7,7 @@ tag:
   type: warning
 ---
 
+## Como empezar
+Inicia escribiendo documentación!
 
+[Dimacheri docs](https://dimacheri-docs.vercel.app/inicio)
