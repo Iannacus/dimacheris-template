@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.7",
-    "@iannacus/dimacheri": "^0.1.5",
+    "@iannacus/dimacheri": "^0.1.6",
     "astro": "^5.1.8"
   }
 }
